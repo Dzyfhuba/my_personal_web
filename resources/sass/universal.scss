@@ -1,0 +1,35 @@
+body{
+    background-color: #000;
+}
+
+#navbar {
+    background-color: #2e2e2e65;
+}
+
+#intro {
+    background-color: rgb(0, 0, 0);
+    background-image: url('../../public/img/bam.jpg');
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    // background-origin: content-box;
+    height: 100vh;
+}
+
+#intro h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 700%;
+    margin: 0;
+}
+
+#intro h2 {
+    font-family: sans-serif;
+    font-size: 200%;
+}
+
+.introduce {
+    margin: 0% 5%;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
